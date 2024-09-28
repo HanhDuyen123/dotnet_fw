@@ -1,12 +1,71 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\duyen_repo\\dotnet_fw\\example\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F01B43F4-A4CB-4C59-84C6-951C089C52EA}|example\\example.csproj|c:\\users\\admin\\desktop\\duyen_repo\\dotnet_fw\\example\\example\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F01B43F4-A4CB-4C59-84C6-951C089C52EA}|example\\example.csproj|solutionrelative:example\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F01B43F4-A4CB-4C59-84C6-951C089C52EA}|example\\example.csproj|c:\\users\\admin\\desktop\\duyen_repo\\dotnet_fw\\example\\example\\views\\example\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F01B43F4-A4CB-4C59-84C6-951C089C52EA}|example\\example.csproj|solutionrelative:example\\views\\example\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F01B43F4-A4CB-4C59-84C6-951C089C52EA}|example\\example.csproj|c:\\users\\admin\\desktop\\duyen_repo\\dotnet_fw\\example\\example\\controllers\\examplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F01B43F4-A4CB-4C59-84C6-951C089C52EA}|example\\example.csproj|solutionrelative:example\\controllers\\examplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\duyen_repo\\dotnet_fw\\example\\example\\Views\\Example\\Index.cshtml",
+              "RelativeDocumentMoniker": "example\\Views\\Example\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\duyen_repo\\dotnet_fw\\example\\example\\Views\\Example\\Index.cshtml",
+              "RelativeToolTip": "example\\Views\\Example\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-27T11:18:39.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\duyen_repo\\dotnet_fw\\example\\example\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "example\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\duyen_repo\\dotnet_fw\\example\\example\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "example\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-27T11:17:57.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExampleController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\duyen_repo\\dotnet_fw\\example\\example\\Controllers\\ExampleController.cs",
+              "RelativeDocumentMoniker": "example\\Controllers\\ExampleController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\duyen_repo\\dotnet_fw\\example\\example\\Controllers\\ExampleController.cs",
+              "RelativeToolTip": "example\\Controllers\\ExampleController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T11:17:34.748Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

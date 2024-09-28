@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\duyen_repo\\dotnet_fw\\BaiTap1_64130473\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92F9E438-2EC3-47F0-9561-24AFF1ACDD06}|BaiTap1_64130473\\BaiTap1_64130473.csproj|c:\\users\\admin\\desktop\\duyen_repo\\dotnet_fw\\baitap1_64130473\\baitap1_64130473\\controllers\\pheptoan_64130473controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92F9E438-2EC3-47F0-9561-24AFF1ACDD06}|BaiTap1_64130473\\BaiTap1_64130473.csproj|solutionrelative:baitap1_64130473\\controllers\\pheptoan_64130473controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PhepToan_64130473Controller.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\duyen_repo\\dotnet_fw\\BaiTap1_64130473\\BaiTap1_64130473\\Controllers\\PhepToan_64130473Controller.cs",
+              "RelativeDocumentMoniker": "BaiTap1_64130473\\Controllers\\PhepToan_64130473Controller.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\duyen_repo\\dotnet_fw\\BaiTap1_64130473\\BaiTap1_64130473\\Controllers\\PhepToan_64130473Controller.cs",
+              "RelativeToolTip": "BaiTap1_64130473\\Controllers\\PhepToan_64130473Controller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T00:18:38.161Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
