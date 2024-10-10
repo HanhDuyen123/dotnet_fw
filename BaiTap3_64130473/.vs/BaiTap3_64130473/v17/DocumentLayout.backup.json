@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\duyen_repo\\dotnet_fw\\BaiTap3_64130473\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F996FBB0-3012-40B6-8757-DF7657908D60}|BaiTap3_64130473\\BaiTap3_64130473.csproj|C:\\Users\\Admin\\Desktop\\duyen_repo\\dotnet_fw\\BaiTap3_64130473\\baitap3_64130473\\views\\nhanvien_64130473\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F996FBB0-3012-40B6-8757-DF7657908D60}|BaiTap3_64130473\\BaiTap3_64130473.csproj|solutionrelative:baitap3_64130473\\views\\nhanvien_64130473\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F996FBB0-3012-40B6-8757-DF7657908D60}|BaiTap3_64130473\\BaiTap3_64130473.csproj|c:\\users\\admin\\desktop\\duyen_repo\\dotnet_fw\\baitap3_64130473\\baitap3_64130473\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F996FBB0-3012-40B6-8757-DF7657908D60}|BaiTap3_64130473\\BaiTap3_64130473.csproj|solutionrelative:baitap3_64130473\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F996FBB0-3012-40B6-8757-DF7657908D60}|BaiTap3_64130473\\BaiTap3_64130473.csproj|c:\\users\\admin\\desktop\\duyen_repo\\dotnet_fw\\baitap3_64130473\\baitap3_64130473\\controllers\\nhanvien_64130473controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F996FBB0-3012-40B6-8757-DF7657908D60}|BaiTap3_64130473\\BaiTap3_64130473.csproj|solutionrelative:baitap3_64130473\\controllers\\nhanvien_64130473controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F996FBB0-3012-40B6-8757-DF7657908D60}|BaiTap3_64130473\\BaiTap3_64130473.csproj|C:\\Users\\Admin\\Desktop\\duyen_repo\\dotnet_fw\\BaiTap3_64130473\\baitap3_64130473\\emp.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F996FBB0-3012-40B6-8757-DF7657908D60}|BaiTap3_64130473\\BaiTap3_64130473.csproj|solutionrelative:baitap3_64130473\\emp.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F996FBB0-3012-40B6-8757-DF7657908D60}|BaiTap3_64130473\\BaiTap3_64130473.csproj|C:\\Users\\Admin\\Desktop\\duyen_repo\\dotnet_fw\\BaiTap3_64130473\\baitap3_64130473\\models\\empmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F996FBB0-3012-40B6-8757-DF7657908D60}|BaiTap3_64130473\\BaiTap3_64130473.csproj|solutionrelative:baitap3_64130473\\models\\empmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F996FBB0-3012-40B6-8757-DF7657908D60}|BaiTap3_64130473\\BaiTap3_64130473.csproj|C:\\Users\\Admin\\Desktop\\duyen_repo\\dotnet_fw\\BaiTap3_64130473\\baitap3_64130473\\views\\nhanvien_64130473\\confirm.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F996FBB0-3012-40B6-8757-DF7657908D60}|BaiTap3_64130473\\BaiTap3_64130473.csproj|solutionrelative:baitap3_64130473\\views\\nhanvien_64130473\\confirm.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\duyen_repo\\dotnet_fw\\BaiTap3_64130473\\BaiTap3_64130473\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "BaiTap3_64130473\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\duyen_repo\\dotnet_fw\\BaiTap3_64130473\\BaiTap3_64130473\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "BaiTap3_64130473\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T11:36:48.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Confirm.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\duyen_repo\\dotnet_fw\\BaiTap3_64130473\\BaiTap3_64130473\\Views\\NhanVien_64130473\\Confirm.cshtml",
+              "RelativeDocumentMoniker": "BaiTap3_64130473\\Views\\NhanVien_64130473\\Confirm.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\duyen_repo\\dotnet_fw\\BaiTap3_64130473\\BaiTap3_64130473\\Views\\NhanVien_64130473\\Confirm.cshtml",
+              "RelativeToolTip": "BaiTap3_64130473\\Views\\NhanVien_64130473\\Confirm.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-05T00:46:38.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\duyen_repo\\dotnet_fw\\BaiTap3_64130473\\BaiTap3_64130473\\Views\\NhanVien_64130473\\Index.cshtml",
+              "RelativeDocumentMoniker": "BaiTap3_64130473\\Views\\NhanVien_64130473\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\duyen_repo\\dotnet_fw\\BaiTap3_64130473\\BaiTap3_64130473\\Views\\NhanVien_64130473\\Index.cshtml",
+              "RelativeToolTip": "BaiTap3_64130473\\Views\\NhanVien_64130473\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-05T00:35:51.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "emp.txt",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\duyen_repo\\dotnet_fw\\BaiTap3_64130473\\BaiTap3_64130473\\emp.txt",
+              "RelativeDocumentMoniker": "BaiTap3_64130473\\emp.txt",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\duyen_repo\\dotnet_fw\\BaiTap3_64130473\\BaiTap3_64130473\\emp.txt",
+              "RelativeToolTip": "BaiTap3_64130473\\emp.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-05T00:33:57.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NhanVien_64130473Controller.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\duyen_repo\\dotnet_fw\\BaiTap3_64130473\\BaiTap3_64130473\\Controllers\\NhanVien_64130473Controller.cs",
+              "RelativeDocumentMoniker": "BaiTap3_64130473\\Controllers\\NhanVien_64130473Controller.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\duyen_repo\\dotnet_fw\\BaiTap3_64130473\\BaiTap3_64130473\\Controllers\\NhanVien_64130473Controller.cs",
+              "RelativeToolTip": "BaiTap3_64130473\\Controllers\\NhanVien_64130473Controller.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBMAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T00:30:28.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmpModel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\duyen_repo\\dotnet_fw\\BaiTap3_64130473\\BaiTap3_64130473\\Models\\EmpModel.cs",
+              "RelativeDocumentMoniker": "BaiTap3_64130473\\Models\\EmpModel.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\duyen_repo\\dotnet_fw\\BaiTap3_64130473\\BaiTap3_64130473\\Models\\EmpModel.cs",
+              "RelativeToolTip": "BaiTap3_64130473\\Models\\EmpModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T00:29:30.904Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
